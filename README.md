@@ -16,9 +16,3 @@ I am a software developer and technical contributor focused on web technologies,
 - 💼 **Freelancer:** [Hire me on Freelancer](https://www.freelancer.com/u/Dragoljub)
 - 📚 **Wikipedia:** [User:Dracorisz](https://en.wikipedia.org/wiki/User:Dracorisz)
 - 💖 **Sponsor:** [Support my open-source work on GitHub](https://github.com/sponsors/dracorisz)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dracorisz&show_icons=true&theme=transparent&hide_border=true" alt="Dracorisz's GitHub Stats" />
-</div>
